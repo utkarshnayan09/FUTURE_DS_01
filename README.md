@@ -2,7 +2,7 @@
 Sales Performance Analysis Dashboard
 This repository contains a Power BI dashboard that provides insights into sales performance across different countries, categories, and time periods. The dashboard highlights overall sales, budget amounts, order quantities, and country-wise contributions.
 
-📌 Features
+##📌 Features
 Cards for Key Metrics
 
 Total Sales
@@ -29,5 +29,5 @@ Microsoft Excel / CSV – Data source for analysis
 Download the .pbix file from this repository.
 Open it using Power BI Desktop.
 Interact with filters and visuals to explore insights (e.g., drill down by country, sub-category, or time).
-📊 Dashboard Preview
-Screenshot 2025-08-17 153554
+ 
+
